@@ -4,5 +4,5 @@ head{}
       h1{}
          h2{}
    main{}
-      #squares{position:relative;left:25%;}
+      #squares{position:relative;left:25%;right:25%}
    footer{}
