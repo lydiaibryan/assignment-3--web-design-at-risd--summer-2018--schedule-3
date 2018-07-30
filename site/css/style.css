@@ -1,5 +1,5 @@
 head{}
-   body{background-image: url("../img/dieter-4.jpg");position:relative;background-repeat:no-repeat;background-size:contain;}
+   body{background-image: url("../img/dieter-2.jpg");background-position:center;background-repeat:round;background-size:contain;}
 
       header{}
       h1{font-family: 'Hanalei Fill', cursive;}
