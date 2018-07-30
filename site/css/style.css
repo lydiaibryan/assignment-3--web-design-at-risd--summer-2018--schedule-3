@@ -4,5 +4,6 @@ head{}
       h1{}
          h2{}
    main{}
-      #squares{position:relative; display:block;margin-left:auto;margin-right:auto;}
+      #squares{position:relative; display:block;margin-left:auto;margin-right:auto;
+      opacity:.5}
    footer{}
