@@ -1,7 +1,7 @@
 head{}
    body{}
-      header{}
-      h1{font-family: 'Hanalei Fill', cursive;}
+      header{margin:auto;}
+      h1{font-family: 'Hanalei Fill', cursive;margin:auto;}
          h2{}
    main{}
 
