@@ -49,20 +49,20 @@ head{}
         grid-row: 4;
       }
       .seven {
-        grid-column: 3;
-        grid-row: 4;
+        grid-column: 2;
+        grid-row: 2;
       }
       .eight {
-        grid-column: 3;
+        grid-column: 2;
         grid-row: 4;
       }
       .nine {
-        grid-column: 3;
+        grid-column: 1;
         grid-row: 4;
       }
       .ten {
-        grid-column: 3;
-        grid-row: 4;
+        grid-column: 4;
+        grid-row: 1;
       }
 
 
