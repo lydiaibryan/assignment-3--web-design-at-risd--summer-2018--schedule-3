@@ -13,7 +13,7 @@ head{}
       }
 
       .wrapper > div {
-        background-color: rgba(33, 252, 222, 0.5);
+
         padding: 1em;
         color: black;
       }.wrapper {
@@ -26,7 +26,7 @@ head{}
         grid-column: 1 / 3;
         grid-row: 1;
       }
-      .two {
+      .two {background-color: rgba(33, 252, 222, 0.5);
         grid-column: 2 / 4;
         grid-row: 1 / 3;
       }
@@ -34,7 +34,7 @@ head{}
         grid-column: 1;
         grid-row: 2 / 5;
       }
-      .four {
+      .four {background-color: rgba(33, 252, 222, 0.5);
         grid-column: 3;
         grid-row: 3;
       }
@@ -43,7 +43,7 @@ head{}
         grid-row: 4;
       }
 
-      .six {
+      .six {background-color: rgba(33, 252, 222, 0.5);
         grid-column: 3;
         grid-row: 4;
       }
@@ -51,7 +51,7 @@ head{}
         grid-column: 2;
         grid-row: 2;
       }
-      .eight {
+      .eight {background-color: rgba(33, 252, 222, 0.5);
         grid-column: 2;
         grid-row: 4;
       }
@@ -59,7 +59,7 @@ head{}
         grid-column: 1;
         grid-row: 4;
       }
-      .ten {
+      .ten {background-color: rgba(33, 252, 222, 0.5);
         grid-column: 4;
         grid-row: 1;
       }
