@@ -1,6 +1,5 @@
 head{}
-   body{background-image: url("../img/dieter-2.jpg");background-position:center;background-size:contain;}
-
+   body{}
       header{}
       h1{font-family: 'Hanalei Fill', cursive;}
          h2{}
@@ -9,16 +8,14 @@ head{}
       * {box-sizing: border-box;}
       * {box-sizing: border-box;}
       .wrapper {
-        max-width: 940px;
+        max-width: 1000px;
         margin: 0 auto;
       }
 
       .wrapper > div {
-        border: 2px solid rgb(233,171,88);
-        border-radius: 5px;
-        background-color: rgba(233,171,88,.5);
+        background-color: rgba(33, 252, 222, 0.5);
         padding: 1em;
-        color: #d9480f;
+        color: black;
       }.wrapper {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -45,6 +42,17 @@ head{}
         grid-column: 2;
         grid-row: 4;
       }
+      .wrapper-2 > div {
+       background-color: rgba(252, 98, 33, 0.5);
+       padding: 1em;
+       color: black;
+      }.wrapper-2 {
+       display: grid;
+       grid-template-columns: repeat(3, 1fr);
+       grid-gap: 10px;
+       grid-auto-rows: minmax(100px, auto);
+      }
+
       .six {
         grid-column: 3;
         grid-row: 4;
