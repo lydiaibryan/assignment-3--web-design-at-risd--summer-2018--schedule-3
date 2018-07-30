@@ -1,7 +1,7 @@
 head{}
    body{}
       header{}
-      h1{}
+      h1{font-family: 'Hanalei Fill', cursive;}
          h2{}
    main{}
       #squares{position:relative; display:block;margin-left:auto;margin-right:auto;
