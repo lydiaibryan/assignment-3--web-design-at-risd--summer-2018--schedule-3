@@ -51,7 +51,7 @@ head{}
       .six {background-color: rgba(33, 252, 222, 0.2);
 display:none;
       }
-   .six:hover{z-index:1;width:400px;height:600px;}
+   .six:hover{z-index:1;width:400px;height:600px;opacity:1}
 
       .seven {background-color: rgba(252, 98, 33, 0.2);
 display:none;
