@@ -11,7 +11,8 @@ head{}
         max-width: 1000px;
         margin: 0 auto;
       }
-.wrapper > div { padding: 1em;color: black;}
+.wrapper > div { padding: 1em;color: black;font-family: 'Press Start 2P', cursive;
+}
 .wrapper {
         display: grid;
         grid-template-columns: repeat(6, 1fr);
