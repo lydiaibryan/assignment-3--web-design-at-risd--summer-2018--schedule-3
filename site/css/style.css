@@ -4,9 +4,11 @@ head{}
       h1{font-family: 'Hanalei Fill', cursive;margin:auto;text-align:center;}
          h2{text-align:center;}
    main{padding:80px}
-   .box{width:400px;height:200px;margin:auto;background-color:red}
-      .box:hover{width:100%;height:600px;background-color:black}
 
+   .box{width:400px;height:200px;margin:auto;background-color:red}
+      .box:hover{width:100%;height:600px;background-color:black;}
+
+.principles-odd{z-index:1;width:400px;color:white;font-family: 'Press Start 2P', cursive;}
       * {box-sizing: border-box;}
       * {box-sizing: border-box;}
       .wrapper {
@@ -82,5 +84,5 @@ head{}
          grid-row: 17/21;
       }
    .ten:hover{z-index:1;background-color: rgba(33, 252, 222, 1)}
-.rule-even{text-align:left;color:white;z-index:1;width:200px;padding:80px}
+
    footer{}
