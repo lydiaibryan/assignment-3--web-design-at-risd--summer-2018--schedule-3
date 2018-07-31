@@ -50,31 +50,31 @@ head{}
    .five:hover{z-index:1;width:400px;height:600px;background-color:rgba(252, 98, 33, 1)}
 
       .six {background-color: rgba(33, 252, 222, 0.4);
-         grid-column: 2/6;
-        grid-row: 8/11;
+         grid-column: 3/5;
+        grid-row: 9/11;
       }
    .six:hover{z-index:1;width:400px;height:600px;background-color: rgba(33, 252, 222, 1)}
 
       .seven {background-color: rgba(252, 98, 33, 0.4);
-         grid-column: 3/5;
+         grid-column: 4/7;
          grid-row: 10/14;
       }
    .seven:hover{z-index:1;width:400px;height:600px;background-color:rgba(252, 98, 33, 1)}
 
       .eight {background-color: rgba(33, 252, 222, 0.4);
-         grid-column: 4/7;
+         display:none;grid-column: 4/7;
          grid-row: 13/14;
       }
    .eight:hover{z-index:1;width:400px;height:600px;background-color: rgba(33, 252, 222, 1)}
 
       .nine {background-color: rgba(252, 98, 33, 0.4);
-         grid-column: 6/7;
+         display:none;grid-column: 6/7;
          grid-row: 13/18;
       }
    .nine:hover{z-index:1;width:400px;height:600px;background-color:rgba(252, 98, 33, 1)}
 
       .ten {background-color: rgba(33, 252, 222, 0.4);
-         display:none;grid-column: 3/5;
+         display:none;display:none;grid-column: 3/5;
          grid-row: 9/13;
       }
    .ten:hover{z-index:1;width:400px;height:600px;background-color: rgba(33, 252, 222, 1)}
