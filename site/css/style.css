@@ -23,11 +23,13 @@ head{}
         grid-column:2/4;
         grid-row: 1/2;
       }
-   .one:hover{
+   .one:hover{background-color:cyan;
+      grid-column:1/4;
+      grid-row:1/4
             }
-            .p-1 {z-index:1;font-size:0px;background-color:cyan;
-              grid-column:1/4;
-              grid-row: 1/4;
+            .p-1 {z-index:1;color:white;font-size:12px;
+              grid-column:1;
+              grid-row: 1;
             }
 
       .two {background-color: rgba(33, 252, 222, 0.4);
