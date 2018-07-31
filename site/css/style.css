@@ -3,7 +3,7 @@ head{}
       header{margin:auto;}
       h1{font-family: 'Hanalei Fill', cursive;margin:auto;text-align:center;}
          h2{text-align:center;}
-   main{}
+   main{padding:80px}
 
       * {box-sizing: border-box;}
       * {box-sizing: border-box;}
