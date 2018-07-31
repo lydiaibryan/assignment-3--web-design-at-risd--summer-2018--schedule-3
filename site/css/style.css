@@ -21,12 +21,9 @@ head{}
       }
       .one {background-color: rgba(252, 98, 33, 0.4);
         grid-column: 1/4;
-        grid-row: 1;font-size:80px;
+        grid-row: 1;
       }
-   .principle{color:rgba(252, 98, 33, 0.2)}
-      .principle:hover{z-index:1;color:black;}
-   .one:hover{z-index:1;background-color:rgba(252, 98, 33, .5);
-   width:400px;height:400px}
+   .one:hover{z-index:1;background-color:rgba(252, 98, 33, .5);}
 
       .two {background-color: rgba(33, 252, 222, 0.4);
         grid-column: 3/7;
