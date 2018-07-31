@@ -62,9 +62,9 @@ head{}
    .seven:hover{z-index:1;width:400px;height:600px;}
 
       .eight {background-color: rgba(33, 252, 222, 0.2);
-display:none;
-         grid-column: 2/4;
-         grid-row: 2/4;
+
+         grid-column: 2/7;
+         grid-row: 7/10;
       }
    .eight:hover{z-index:1;width:400px;height:600px;}
 
