@@ -50,7 +50,8 @@ head{}
    .five:hover{z-index:1;width:400px;height:600px;}
 
       .six {background-color: rgba(33, 252, 222, 0.2);
-display:none;
+         grid-column: 4/6;
+        grid-row: 4;
       }
    .six:hover{z-index:1;width:400px;height:600px;}
 
