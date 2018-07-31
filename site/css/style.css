@@ -23,7 +23,8 @@ head{}
         grid-column: 1/4;
         grid-row: 1;
       }
-   .one:hover{z-index:1;background-color:rgba(252, 98, 33, .1);width:1000px;}
+   .one:hover{background-color:rgba(252, 98, 33, 1);
+   width:100%;}
 
       .two {background-color: rgba(33, 252, 222, 0.4);
         grid-column: 3/7;
