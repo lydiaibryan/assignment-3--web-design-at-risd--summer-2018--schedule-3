@@ -27,6 +27,7 @@ head{}
         grid-column: 3;
         grid-row: 1/4;
       }
+   .two:hover{z-index:1;width:400px;height:600px;}
       .three {background-color: rgba(252, 98, 33, 0.2);
         grid-column: 4/6;
         grid-row: 2;
