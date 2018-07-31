@@ -19,7 +19,7 @@ head{}
         grid-gap: 0px;
         grid-auto-rows: minmax(100px, auto);
       }
-      .one {;color:black;font-size:80px;background-color:cyan;
+      .one {text-align:right;color:black;font-size:80px;background-color:cyan;
         grid-column:2/4;
         grid-row: 1/3;
       }
