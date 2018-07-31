@@ -56,23 +56,28 @@ head{}
    .six:hover{z-index:1;width:400px;height:600px;}
 
       .seven {background-color: rgba(252, 98, 33, 0.2);
-display:none;
+         grid-column: 3/5;
+         grid-row: 5/8;
       }
    .seven:hover{z-index:1;width:400px;height:600px;}
 
       .eight {background-color: rgba(33, 252, 222, 0.2);
 display:none;
+         grid-column: 2/4;
+         grid-row: 2/4;
       }
    .eight:hover{z-index:1;width:400px;height:600px;}
 
       .nine {background-color: rgba(252, 98, 33, 0.2);
-display:none;
-      }
+         grid-column: 2/4;
+         grid-row: 2/4;
+      display:none}
    .nine:hover{z-index:1;width:400px;height:600px;}
 
       .ten {background-color: rgba(33, 252, 222, 0.2);
-display:none;
-      }
+         grid-column: 2/4;
+         grid-row: 2/4;
+      display:none}
    .ten:hover{z-index:1;width:400px;height:600px;}
 
 
