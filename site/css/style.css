@@ -8,7 +8,7 @@ head{}
    .box{width:400px;height:200px;margin:auto;background-color:red}
       .box:hover{width:100%;height:600px;background-color:black;}
 
-.principles-odd{z-index:1;width:400px;color:white;font-family: 'Press Start 2P', cursive;}
+.principles-odd{z-index:1;width:400px;color:black;font-family: 'Press Start 2P', cursive;}
       * {box-sizing: border-box;}
       * {box-sizing: border-box;}
       .wrapper {
