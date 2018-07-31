@@ -62,14 +62,14 @@ head{}
    .seven:hover{z-index:1;width:400px;height:600px;background-color:rgba(252, 98, 33, 1)}
 
       .eight {background-color: rgba(33, 252, 222, 0.4);
-         grid-column: 4/8;
+         grid-column: 2/8;
          grid-row: 13/14;
       }
    .eight:hover{z-index:1;width:400px;height:600px;background-color: rgba(33, 252, 222, 1)}
 
       .nine {background-color: rgba(252, 98, 33, 0.4);
-         display:none;grid-column: 1/4;
-         grid-row: 9/11;
+         grid-column: 7/8;
+         grid-row: 13/18;
       }
    .nine:hover{z-index:1;width:400px;height:600px;background-color:rgba(252, 98, 33, 1)}
 
