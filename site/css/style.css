@@ -22,6 +22,7 @@ head{}
         grid-column: 1/4;
         grid-row: 1;
       }
+   .one:hover{z-index:1;width:400px;height:600px;}
       .two {background-color: rgba(33, 252, 222, 0.2);
         grid-column: 3;
         grid-row: 1/4;
