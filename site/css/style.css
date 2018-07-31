@@ -8,26 +8,26 @@ head{}
       * {box-sizing: border-box;}
       * {box-sizing: border-box;}
       .wrapper {
-        max-width: 1000px;
+        max-width: 1200px;
         margin: 0 auto;
       }
 .wrapper > div { padding: 1em;font-family: 'Press Start 2P', cursive;
 }
 .wrapper {
         display: grid;
-        grid-template-columns: repeat(8, 1fr);
+        grid-template-columns: repeat(6, 1fr);
         grid-gap: 0px;
         grid-auto-rows: minmax(100px, auto);
       }
-      .one {z-index:1;color:white;font-size:12px;
-        grid-column:1;
-        grid-row: 1;
+      .one {;color:black;font-size:12px;background-color:blue;
+        grid-column:2/4;
+        grid-row: 1/2;
       }
    .one:hover{
             }
-            .p-1 {z-index:1;color:white;font-size:12px;
-              grid-column:1;
-              grid-row: 1;
+            .p-1 {z-index:1;font-size:0px;background-color:cyan;
+              grid-column:1/4;
+              grid-row: 1/4;
             }
 
       .two {background-color: rgba(33, 252, 222, 0.4);
