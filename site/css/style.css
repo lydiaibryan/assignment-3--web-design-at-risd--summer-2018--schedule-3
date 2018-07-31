@@ -23,8 +23,8 @@ head{}
         grid-column: 1/4;
         grid-row: 1;font-size:16px;
       }
-   .principle{}
-      .principle:hover{z-index:1}
+   .principle{color:rgba(252, 98, 33, 0.4)}
+      .principle:hover{z-index:1;color:black;}
    .one:hover{z-index:1;background-color:rgba(252, 98, 33, .5);}
 
       .two {background-color: rgba(33, 252, 222, 0.4);
