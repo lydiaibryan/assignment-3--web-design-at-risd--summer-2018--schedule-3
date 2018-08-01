@@ -5,8 +5,6 @@ head{}
       h1{font-family: 'Wire One', sans-serif;margin:auto;text-align:left;font-size:150px;color:black}
          h2{text-align:right;font-size:50px;font-family: 'Barlow Condensed', sans-serif;padding:20px}
 
-h3{background-color:rgba(0, 112, 197, 0.5);color:white;margin:auto;
-   font-family: 'Barlow Condensed', sans-serif;text-align:center;font-size:100px;line-height:150px}
 
    main{padding:80px;margin:auto}
 
@@ -138,4 +136,6 @@ grid-row:18/21}
     grid-column:4/6;
     grid-row: 18/20;
    }
-   footer{}
+   footer{position:fixed}
+      h3{background-color:rgba(0, 112, 197, 0.5);color:white;margin:auto;
+         font-family: 'Barlow Condensed', sans-serif;text-align:center;font-size:100px;line-height:150px}
